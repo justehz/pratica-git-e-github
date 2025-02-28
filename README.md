@@ -16,3 +16,10 @@ OU
 ```bash
 git add .
 ```
+
+3. Fazendo o commit
+```bash
+ git commit -m "mensagem" 
+ ```
+
+ 
